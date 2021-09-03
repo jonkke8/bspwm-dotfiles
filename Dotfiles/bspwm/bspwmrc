@@ -1,0 +1,34 @@
+#! /bin/sh
+
+pgrep -x sxhkd > /dev/null || sxhkd &
+
+bspc monitor -d I II III IV V VI
+
+bspc config border_width         2
+bspc config window_gap          12
+
+bspc config split_ratio          0.52
+bspc config borderless_monocle   true
+bspc config gapless_monocle      true
+
+bspc rule -a Gimp desktop='^8' state=floating follow=on
+bspc rule -a Firefox desktop=^1 follow=on
+bspc rule -a discord desktop=^6 
+bspc rule -a Steam desktop=^6
+bspc rule -a Alacritty desktop=^3
+bspc rule -a Code desktop=^4
+bspc rule -a mplayer2 state=floating
+bspc rule -a Kupfer.py focus=on
+bspc rule -a Screenkey manage=off
+feh --bg-fill ~/Pictures/wall_secondary.png
+xsetroot -cursor_name left_ptr &
+bspc config focus_follows_pointer true
+~/.config/polybar/./launch.sh
+picom --experimental-backends &
+bspc config border_width 0
+xinput --set-prop 10 'libinput Accel Speed' -0.3
+xinput --set-prop 10 'libinput Accel Profile Enabled' 0, 1
+mpd
+# Launch Polybar
+bash ~/.config/polybar/launch.sh --hack
+
