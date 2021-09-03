@@ -1,4 +1,4 @@
-## **I recommend _very_ heavily that you install; wal, pywal-discord and the Pywalfox firefox extension for matching desktop colors.**
+## **I _highly_ recommend that you install; wal, pywal-discord and the Pywalfox firefox extension for matching desktop colors.**
 
 
 
