@@ -1,6 +1,14 @@
-## **I _highly_ recommend that you install; wal, pywal-discord and the Pywalfox firefox extension for matching desktop colors.**
+## **I _highly_ recommend that you install; wal, pywal-discord and the Pywalfox firefox extension for matching
+desktop colors.**
 
+## Please copy into sxhkdrc;
+# program launcher
+super + @space
+   rofi -no-config -no-lazy-grab -show drun -modi drun -theme ~/.config/polybar/hack/scripts/rofi/launcher.rasi
 
+## Extra programs _possibly_ needed:
+-Oh my Zsh
+-POWERLEVEL10K for the Alacritty theme
 
 ![rice1](https://user-images.githubusercontent.com/45978346/132001152-8ab3f0a0-147a-4b00-b810-128823ed2f75.png)
 ![rice2](https://user-images.githubusercontent.com/45978346/132001166-376ea1e2-2eef-4c44-8481-99d4333fcaf3.png)
