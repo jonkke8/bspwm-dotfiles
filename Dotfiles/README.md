@@ -1,4 +1,4 @@
-<p align="center"> # Please copy into sxhkdrc; </p>
+   # Please copy into sxhkdrc;
 **(any keybind you want/ dont copy this)** super + @space
    rofi -no-config -no-lazy-grab -show drun -modi drun -theme ~/.config/polybar/hack/scripts/rofi/launcher.rasi
 
