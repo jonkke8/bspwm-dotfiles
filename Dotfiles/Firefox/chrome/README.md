@@ -1,4 +1,4 @@
-<p align="center"> This theme is very optional, although I think it looks nice with Pywalfox and some tinkering. </p>
+## <p align="center"> This theme is very optional, although I think it looks nice with Pywalfox and some tinkering. </p>
 <details>
 <summary>Preview of the theme with my modified config and Pywalfox installed and configured.</summary>
 
