@@ -7,8 +7,8 @@ super + @space
 desktop colors.**
 
 ## Extra programs _possibly_ needed:
--Oh my Zsh
--POWERLEVEL10K for the Alacritty theme
+- Oh my Zsh
+- POWERLEVEL10K for the Alacritty theme
 
 ![rice1](https://user-images.githubusercontent.com/45978346/132001152-8ab3f0a0-147a-4b00-b810-128823ed2f75.png)
 ![rice2](https://user-images.githubusercontent.com/45978346/132001166-376ea1e2-2eef-4c44-8481-99d4333fcaf3.png)
