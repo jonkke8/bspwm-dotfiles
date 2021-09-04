@@ -1,6 +1,5 @@
 # Please copy into sxhkdrc;
-# program launcher
-super + @space
+**(any keybind you want/ dont copy this)** super + @space
    rofi -no-config -no-lazy-grab -show drun -modi drun -theme ~/.config/polybar/hack/scripts/rofi/launcher.rasi
 
 ## **I _highly_ recommend that you install; wal, pywal-discord and the Pywalfox firefox extension for matching desktop colors.**
