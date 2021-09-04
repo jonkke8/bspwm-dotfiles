@@ -1,11 +1,11 @@
-   # Please copy into sxhkdrc;
+   # <p align="center"> Please copy into sxhkdrc; </p>
 **(any keybind you want)** 
 ```
 super + @space
    rofi -no-config -no-lazy-grab -show drun -modi drun -theme ~/.config/polybar/hack/scripts/rofi/launcher.rasi
 ```
 
-## **I _highly_ recommend that you install; [pywal](https://github.com/dylanaraps/pywal), [pywal-discord](https://github.com/FilipLitwora/pywal-discord) and the [Pywalfox](https://addons.mozilla.org/en-US/firefox/addon/pywalfox/) firefox extension for matching desktop colors.**
+## **<p align="center">I _highly_ recommend that you install; [pywal](https://github.com/dylanaraps/pywal), [pywal-discord](https://github.com/FilipLitwora/pywal-discord) and the [Pywalfox](https://addons.mozilla.org/en-US/firefox/addon/pywalfox/) firefox extension for matching desktop colors.</p>**
 
 ## Extra programs _possibly_ needed:
 - Oh my Zsh
