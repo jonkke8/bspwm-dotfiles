@@ -10,6 +10,7 @@ super + @space
 ## Extra programs _possibly_ needed:
 - Oh my Zsh
 - POWERLEVEL10K for the Alacritty theme
+- GTK Theme; [Kimi](https://github.com/EliverLara/Kimi) **[Instructions in the repo]**
 
 <details>
 <summary> Image previews of my rice </summary>
