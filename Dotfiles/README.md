@@ -7,10 +7,13 @@ super + @space
 
 ## **<p align="center">I _highly_ recommend that you install; [pywal](https://github.com/dylanaraps/pywal), [pywal-discord](https://github.com/FilipLitwora/pywal-discord) and the [Pywalfox](https://addons.mozilla.org/en-US/firefox/addon/pywalfox/) firefox extension for matching desktop colors.</p>**
 
-## Extra programs _possibly_ needed:
-- Oh my Zsh
-- POWERLEVEL10K for the Alacritty theme
-- GTK Theme; [Kimi](https://github.com/EliverLara/Kimi) **[Instructions in the repo]**
+## Extras _possibly_ needed:             
+**[Instructions in the repositories]**
+
+- Zsh Config Manager; [Oh my Zsh](https://ohmyz.sh/)
+- Alacritty Theming; [Powerlevel10k](https://github.com/romkatv/powerlevel10k)
+- GTK Theme; [Kimi](https://github.com/EliverLara/Kimi) 
+
 
 <details>
 <summary> Image previews of my rice </summary>
